@@ -1,0 +1,14 @@
+{
+  "name": "sbanken-client",
+  "author": {
+    "name": "August Skare"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "got": "^9.2.1"
+  }
+}
